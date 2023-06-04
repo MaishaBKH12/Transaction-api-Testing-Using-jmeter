@@ -4,7 +4,7 @@
 This project is based on performance testing of Transaction API using jmeter.It is used to test load testing functional behavior and measuring performance. JMeter makes it possible by creating a huge number of concurrent users that simulate a heavy load.
 
 ## Technology Used
- JMeter have to be installed
+ JMeter have to be installed.
  
 ## Pre requisites
 Java JDK (Updated Version)
